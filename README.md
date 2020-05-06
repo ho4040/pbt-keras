@@ -21,8 +21,6 @@ Population Based Training of Neural Network implemented in Keras.
 ## install 
 
 ```bash
-pip install tensorflow
-pip install sklearn
 pip install https://github.com/ho4040/keras-pbt
 ```
 
@@ -31,8 +29,11 @@ then
 ```python
 import pbt
 
-# code with pbt
+# write codes with pbt
 ```
+
+[Demo](https://colab.research.google.com/drive/1qXTF5BxPR-xWR0CoXbeWtT5qQhoS7hVA) with Google colab.
+
 
 ## Getting started
 
