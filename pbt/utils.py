@@ -5,7 +5,7 @@ import pandas as pd
 from pbt import TF
 
 if TF:
-    from tensorflow.python.keras.utils import Progbar
+    from tensorflow.keras.utils import Progbar
 else:
     from keras.utils.generic_utils import Progbar
 

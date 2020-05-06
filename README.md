@@ -18,6 +18,22 @@ Population Based Training of Neural Network implemented in Keras.
   <a href="#license">License</a>
 </p>
 
+## install 
+
+```bash
+pip install tensorflow
+pip install sklearn
+pip install https://github.com/ho4040/keras-pbt
+```
+
+then
+
+```python
+import pbt
+
+# code with pbt
+```
+
 ## Getting started
 
 To run the Boston Housing Dataset example, you need Keras with Tensorflow backend. Check any of the `example_boston_ds` files.
